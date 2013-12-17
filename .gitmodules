@@ -1,0 +1,15 @@
+[submodule "extensions/bootstrap"]
+	path = extensions/bootstrap
+	url = https://github.com/Crisu83/yiistrap.git
+[submodule "extensions/yiiwheels"]
+	path = extensions/yiiwheels
+	url = https://github.com/2amigos/yiiwheels.git
+[submodule "extensions/andystrap"]
+	path = extensions/andystrap
+	url = https://github.com/ChouAndy/andystrap.git
+[submodule "extensions/ePdf"]
+	path = extensions/ePdf
+	url = https://github.com/ChouAndy/ePdf.git
+[submodule "extensions/xupload"]
+	path = extensions/xupload
+	url = https://github.com/ChouAndy/xupload.git

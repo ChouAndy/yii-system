@@ -13,3 +13,6 @@
 [submodule "extensions/xupload"]
 	path = extensions/xupload
 	url = https://github.com/ChouAndy/xupload.git
+[submodule "framework"]
+	path = framework
+	url = https://github.com/ChouAndy/Yii-framework-1.1.git
